@@ -1,5 +1,3 @@
-package com.devops.yin;
-
 public class Hello {
 
 	public static void main(String[] args) {
